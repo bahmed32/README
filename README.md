@@ -1,5 +1,9 @@
-# [Bilqis Ahmed]'s Notes
+# Bilqis Ahmed's Notes
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
-hello
+
+
+## Summary 
+
+This repository contains all of the notes taken by [Bilqis](https://github.com/bahmed32/README.md) for the Lighthouse Labs Web Development Bootcamp.
+
+# README.md
